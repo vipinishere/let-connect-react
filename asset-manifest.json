@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/let-connect-react/static/css/main.e6c13ad2.css",
+    "main.js": "/let-connect-react/static/js/main.f90aacd3.js",
+    "static/js/787.cc4ec72e.chunk.js": "/let-connect-react/static/js/787.cc4ec72e.chunk.js",
+    "index.html": "/let-connect-react/index.html",
+    "main.e6c13ad2.css.map": "/let-connect-react/static/css/main.e6c13ad2.css.map",
+    "main.f90aacd3.js.map": "/let-connect-react/static/js/main.f90aacd3.js.map",
+    "787.cc4ec72e.chunk.js.map": "/let-connect-react/static/js/787.cc4ec72e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f90aacd3.js"
+  ]
+}
